@@ -15,7 +15,7 @@ RootModule = 'PsData.psm1'
 ModuleVersion = '3.0'
 
 # ID used to uniquely identify this module
-GUID = '2937f54d-5a65-4329-9ff2-fb83d7cd713e'
+GUID = '6eb53349-7d0a-c325-6fa4-85c383bd1648'
 
 # Author of this module
 Author = 'Bryan Matthews'
@@ -117,4 +117,3 @@ PrivateData = @{
 # DefaultCommandPrefix = ''
 
 }
-
